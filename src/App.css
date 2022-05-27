@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+.pictureActor {
+  width: 80px;
+  height: 90px;
+  object-fit: fill;
+}
+
+.Main-btns {
+  display: flex;
+  justify-content: center;
+  margin-left: -10px;
+  margin-bottom: 40px;
+  padding-left: 36px ;
+}
+
+.btn-space {
+  margin-right: 20px;
+}
+
+.thspacing{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  margin-left: 60px;
+}
